@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.container{
+    background-color: blanchedalmond;
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid black;
+    /* padding: 100px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px; */
+}
+.box{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    border: 2px solid black;
+    margin: auto;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+span{
+    color: red;
+    font-size: 100px;
+    display: block;
+}
+
+div{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    display: inline;
+}
+
+.car{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.car-1{
+    /* display: none; */
+}
+
+.car-2{
+    display visibility: hidden;
+}
