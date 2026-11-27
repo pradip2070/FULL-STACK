@@ -26,22 +26,22 @@
 }
 
 #box-1{
-    background: radial-gradient(thistle,white,pink);
+    background: radial-gradient(rgb(216, 191, 209),white,pink);
     grid-area: hdr;
 }
 
 #box-2{
-    background: radial-gradient(red,orange,pink);
+    background: radial-gradient(red,orange,rgb(175, 152, 161));
     grid-area: sbr;
 
 }
 
 #box-3{
-    background: radial-gradient(green,white,pink);
+    background: radial-gradient(rgb(226, 152, 156),white,pink);
     grid-area: main;
 }
 
 #box-4{
-    background: radial-gradient(rgb(67, 7, 67),orange,pink);
+    background: radial-gradient(blue,skyblue,purple);
     grid-area: ftr;
 }
